@@ -17,18 +17,18 @@
      */
     const obj = {
         // UPDATE THIS
-        baseUrl: 'http://10.53.1.107:8081',
+        baseUrl: 'https://bandwidth-dev.sisense.com',
 
         // UPDATE THIS
         dashboards: [
             {
-                title: "Demo Dashboard #1",
-                oid: "5d371bf198b98a113c6a5f38",
+                title: "Message Deliverability",
+                oid: "5e50166745d0c9002d2f5499",
                 default: true
             },
             {
-                title: "Demo Dashboard #2",
-                oid: "5d46cf2dcccce82a64866050",
+                title: "Message Summary",
+                oid: "5e4d9d27b0c920002daebc11",
                 default: false
             }
         ],
