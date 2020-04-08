@@ -1,6 +1,8 @@
 # Sisense Embed SDK Demo Hitting Bandwidth Sisense Instance
 This project is a demo of Sisense's Embed SDK hitting Bandwidth's Sisense Instance and is intended to be a prototyping environment for any analytics work at Bandwidth that will utilize the Sisense SDK.
 
+This Application requires SSO authentication to view the Bandwidth Sisense Dashboards, so if the Okta account is not granted permission to the Sisense Dashboard, application will not load the dashboard display. Reach out to Justin Scott jscott@bandiwdth.com with any questions on getting access.
+
 The Sisense Embed SDK is a Javascript library used to embed Sisense dashboards into other web pages in an interactive manner, available in Sisense V8.1 and up.
 
 > *Note: this demo utilizes some features available only with Sisense V8.1.1 and higher*
